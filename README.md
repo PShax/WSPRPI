@@ -1,6 +1,8 @@
 # WSPRPI
 Simple Raspberry Pi based WSPR transmitter.
-Now compatible with all Pi versions. Thanks to KB8RCO.
+Now compatible with all Pi versions.Thanks to KB8RCO.
 Supports Autorun at boot.
+Thanks to JamesP6000 and KB8RCO for the original solution.
+
 This code is NOT mine, but shared from here as a fork.
 
